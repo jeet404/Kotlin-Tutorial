@@ -1,6 +1,6 @@
 fun main(args: Array<String>) {
     // You can reassign Value
-    var num = 10;
+    var num = 10
     println(num)
     num = 25
     println(num)
