@@ -17,7 +17,7 @@ fun main(args: Array<String>) {
         println(i)
     }
 
-    -
+    // With String Templating
     var number = 5
     for (index in 1..10) {
         println("$number x $index = ${number*index}")
