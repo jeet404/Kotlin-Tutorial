@@ -7,4 +7,5 @@ fun main(args: Array<String>) {
     arr.set(2, "Tony")
     println(arr[2])
     println(arrInt.get(2))
+    println(arr.size)
 }
